@@ -1,0 +1,3 @@
+class Hurdle{
+    constructor(){}
+}
